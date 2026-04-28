@@ -178,10 +178,10 @@
 // nameString("Matt") ᔍ "MattEdabit"
 // nameString("javaScript") ᔍ "javaScriptEdabit"
 
-function nameString(a) {
-	return a + 'Edabit'
-}
-console.log(nameString("Mubashir") );
+// function nameString(a) {
+// 	return a + 'Edabit'
+// }
+// console.log(nameString("Mubashir") );
 
 // =========================================================================================================================================
 
